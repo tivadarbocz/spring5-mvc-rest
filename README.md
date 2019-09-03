@@ -1,4 +1,5 @@
-[![CircleCI](https://circleci.com/gh/springframeworkguru/spring5-mvc-rest.svg?style=svg)](https://circleci.com/gh/springframeworkguru/spring5-mvc-rest)
+
+CircleCI test:[![CircleCI](https://circleci.com/gh/tivadarbocz/challengeme/tree/master.svg?style=svg)](https://circleci.com/gh/tivadarbocz/challengeme/tree/master)
 # Spring Framework 5 MVC Rest Application
 
 This repository is for an example application built in my Spring Framework 5 - Beginner to Guru
